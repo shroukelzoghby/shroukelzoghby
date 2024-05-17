@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shroukelzoghby&label=Profile%20views&color=0e75b6&style=flat" alt="shroukelzoghby" /> </p>
 
+<p align="left"> <a href="https://twitter.com/shrokmimi" target="blank"><img src="https://img.shields.io/twitter/follow/shrokmimi?logo=twitter&style=for-the-badge" alt="shrokmimi" /></a> </p>
+
 - 🔭 I’m currently working on **Gardenia**
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
@@ -13,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/shrokmimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrokmimi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shrouk-meme-elzoghby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrouk-meme-elzoghby" height="30" width="40" /></a>
+<a href="https://fb.com/shrok.elzoghpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrok.elzoghpy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
