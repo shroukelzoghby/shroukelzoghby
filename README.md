@@ -26,5 +26,5 @@ Highly skilled **Back-End Developer** with experience of crafting robust and sca
 ---
 
 **Shrouk Elzoghby**  
-*Back-End Developer* 
-*Fourth-Year Computer Science Student*  
+- *Back-End Developer* 
+- *Fourth-Year Computer Science Student*  
