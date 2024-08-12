@@ -29,7 +29,6 @@ Highly skilled **Back-End Developer** with experience of crafting robust and sca
 - **Back-End Developer at CIS**
 
  --- 
- 
- **Shrouk Elzoghby**
- *Back-end developer*
- *Fourth-Year Computer Science Student*
+ - **Shrouk Elzoghby**
+- *Back-end developer*
+- *Fourth-Year Computer Science Student*
