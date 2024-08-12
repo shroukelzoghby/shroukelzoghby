@@ -13,7 +13,7 @@ Highly skilled **Back-End Developer** with experience of crafting robust and sca
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/shrouk-meme-elzoghby" target="_blank">
+  <a href="[www.linkedin.com/in/shrouk-meme-elzoghby](https://www.linkedin.com/in/shrouk-meme-elzoghby/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Shroukelzoghby&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:shrouk.elzoghby1@gmail.com" target="_blank">
