@@ -1,8 +1,7 @@
-<h3 align="left">Hi there, I'm Shrouk Elzoghby 🌟</h3>
+# Hi there, I'm Shrouk Elzoghby 🌟
 
-###
+Highly skilled **Back-End Developer** with experience of crafting robust and scalable web applications using Laravel and PHP. Proven ability to design, develop, and maintain APIs, implement secure databases, and optimize application performance.
 
-<h5 align="left">Highly skilled **Back-End Developer** with experience of crafting robust and scalable web applications using Laravel and PHP. Proven ability to design, develop, and maintain APIs, implement secure databases, and optimize application performance.</h5>
 
 ###
 
@@ -20,14 +19,12 @@
 
 ###
 
-<h4 align="left">🤝 Volunteering</h4>
+## 🤝 Volunteering
+- **Back-End Developer at CAT Reloaded**
+- **Back-End Developer at CIS**
 
-###
+---
 
-<h5 align="left">Back-End Developer at CAT Reloaded<br>Back-End Developer at CIS</h5>
-
-###
-
-<h5 align="left">Shrouk Elzoghby<br>Back-End Developer<br>Fourth-Year Computer Science Student</h5>
-
-###
+**Shrouk Elzoghby**  
+*Back-End Developer* 
+*Fourth-Year Computer Science Student*  
