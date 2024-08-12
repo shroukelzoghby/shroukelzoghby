@@ -28,8 +28,8 @@ Highly skilled **Back-End Developer** with experience of crafting robust and sca
 - **Back-End Developer at CAT Reloaded**
 - **Back-End Developer at CIS**
 
----
-
-**Shrouk Elzoghby**  
-- *Back-End Developer* 
-- *Fourth-Year Computer Science Student*  
+ --- 
+ 
+ **Shrouk Elzoghby**
+ *Back-end developer*
+ *Fourth-Year Computer Science Student*
