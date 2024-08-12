@@ -6,8 +6,8 @@ Highly skilled **Back-End Developer** with experience of crafting robust and sca
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shroukelzoghby&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shroukelzoghby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <a href="www.linkedin.com/in/shrouk-meme-elzoghby"> <img src="https://streak-stats.demolab.com?user=shroukelzoghby&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> </a>
+  <a href="mailto:shrouk.elzoghby1@gmail.com"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shroukelzoghby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> </a>
 </div>
 
 ###
